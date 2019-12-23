@@ -1,0 +1,14 @@
+{
+    "name": "UNCalc",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Antlr4.Runtime.Standard.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
